@@ -38,7 +38,7 @@ APIs can be cached, so it can be delay to fetch the correct result.
 
 ### Legal:
 
-This repository has been created for educational purposes only. I will be not be responsible for any kind of abuse.
+This repository has been created for educational purposes only. I will not be responsible for any kind of abuse.
 
 ### Some Notes:
 
