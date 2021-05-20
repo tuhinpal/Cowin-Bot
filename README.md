@@ -11,7 +11,7 @@
 
 ### Deploy:
 
-You need a Indian server to deploy this Bot. NodeJS and NPM is required.
+You need an Indian server to deploy this Bot. NodeJS and NPM is required.
 
 - Edit `config.js` and add your `BOT_TOKEN`, `MONGODB_URL` & `SCHEDULE_TIME`
 - Install dependencies
@@ -38,7 +38,7 @@ APIs can be cached, so it can be delay to fetch the correct result.
 
 ### Legal:
 
-This repository has been created for educational purposes only. I will be no responsible for any kind of abuse.
+This repository has been created for educational purposes only. I will be not be responsible for any kind of abuse.
 
 ### Some Notes:
 
