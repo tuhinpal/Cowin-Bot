@@ -1,0 +1,20 @@
+{
+  "name": "cowin-bot",
+  "version": "1.0.0",
+  "description": "Cowin update bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "nodemon main.js"
+  },
+  "author": "Tuhin Kanti Pal",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cowin": "^1.0.4",
+    "india-pincode-lookup": "^1.0.3",
+    "mongodb": "^3.6.6",
+    "node-cron": "^3.0.0",
+    "telegraf": "^4.3.0"
+  },
+  "devDependencies": {}
+}
